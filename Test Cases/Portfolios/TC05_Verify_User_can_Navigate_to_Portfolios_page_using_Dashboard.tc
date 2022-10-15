@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Verify_User_can_Navigate_to_Portfolios_page_using_Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f84ce192-5adc-49e0-a3f9-c667815c122f</testCaseGuid>
+</TestCaseEntity>

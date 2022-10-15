@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectPerimeter Walls Exterior Wall Framing</name>
+   <tag></tag>
+   <elementGuidId>4d65db80-9790-48f1-8616-d8ce570ce241</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-8.col-xs-12 > #inspectedBy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='inspectedBy']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5486db4f-0ef8-4d99-ae80-cf4968743cbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>SubCategoryID</value>
+      <webElementGuid>399c9e7e-09f8-43e8-a155-8d1d4bd6950a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>inspectedBy</value>
+      <webElementGuid>8192c860-8705-4d71-bc93-3b152b947a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inspectedBy</value>
+      <webElementGuid>6c336e49-6574-4253-aea0-351231857980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Subcategory</value>
+      <webElementGuid>e29d20ee-b190-433c-a0c1-10c70854a676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select col-md-2 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>551f1ab7-6f6f-4b5a-b706-24d25150b37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SelectPerimeter Walls Exterior Wall Framing </value>
+      <webElementGuid>aa87fcec-028c-425c-b532-388e3352f3d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body capex-items&quot;]/app-capex-report-form[1]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row mt-2 px-2&quot;]/div[@class=&quot;col-md-8 col-xs-12&quot;]/select[@id=&quot;inspectedBy&quot;]</value>
+      <webElementGuid>924b88c0-85e5-4e51-b4fb-717f7fd768e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='inspectedBy']</value>
+      <webElementGuid>d0fc1e4e-c377-4157-b5f4-14f8d0ab5a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>38ba84b2-8003-442e-87f1-a094d90c83dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::select[1]</value>
+      <webElementGuid>f7077fae-32aa-4621-ac30-3def24d1581f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e296d153-73d6-4371-b94f-b199d472733e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'inspectedBy' and @id = 'inspectedBy' and @placeholder = 'Subcategory' and (text() = 'SelectPerimeter Walls Exterior Wall Framing ' or . = 'SelectPerimeter Walls Exterior Wall Framing ')]</value>
+      <webElementGuid>8b116e7b-4eb6-4d02-9980-822b9872d085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

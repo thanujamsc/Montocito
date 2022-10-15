@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_8375</name>
+   <tag></tag>
+   <elementGuidId>4c84b7f5-0179-4517-9c9a-85e6f7b4dc79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='cdk-drop-list-0']/tr[8]/td[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d23289c8-3038-49f2-90df-1bda713ae848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold grid-links</value>
+      <webElementGuid>39380611-1c0b-499f-9503-714cd2992be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 8375 </value>
+      <webElementGuid>ececa87e-8023-4456-be44-b351486f3ed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-0&quot;)/tr[@class=&quot;cdk-drag cdk-drag-disabled&quot;]/td[@class=&quot;text-start&quot;]/span[@class=&quot;font-weight-bold grid-links&quot;]</value>
+      <webElementGuid>336a3abf-3799-435d-b50f-7619790bf357</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='cdk-drop-list-0']/tr[8]/td[3]/span</value>
+      <webElementGuid>e2e74fb1-7483-46cc-ba9a-1a5806d6ee5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[8]/following::span[1]</value>
+      <webElementGuid>32dc1acb-82b8-4b2a-9ead-862a55c98664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='----'])[13]/following::span[3]</value>
+      <webElementGuid>a35105ce-d6e9-42e6-ba15-f084ff76ced3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HNW'])[2]/preceding::span[1]</value>
+      <webElementGuid>59ac5875-d18a-4f32-9057-a133c54d36f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHRISTUS Health Surgery Center'])[1]/preceding::span[2]</value>
+      <webElementGuid>342b3de0-9d3c-4257-866c-b3c1c9e4e29a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='8375']/parent::*</value>
+      <webElementGuid>5cd1d73f-0339-4587-b25b-e3817093d918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[3]/span</value>
+      <webElementGuid>7e671bbd-8d96-461f-ab1b-1a312b175556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 8375 ' or . = ' 8375 ')]</value>
+      <webElementGuid>7aff98a2-fcec-4356-b2f1-b4f64592efab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

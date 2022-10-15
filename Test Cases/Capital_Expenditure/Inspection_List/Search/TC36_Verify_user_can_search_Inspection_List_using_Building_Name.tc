@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC36_Verify_user_can_search_Inspection_List_using_Building_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9ad0f5a-d3bf-40b4-b9f5-e43f21eab604</testCaseGuid>
+</TestCaseEntity>

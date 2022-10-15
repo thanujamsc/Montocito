@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_832301</name>
+   <tag></tag>
+   <elementGuidId>e43697e8-ec53-407d-9474-2a3c3cc5b047</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.font-weight-bold.grid-links</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='cdk-drop-list-0']/tr/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>98bd957d-07f1-434e-8750-9399fc8a2c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold grid-links</value>
+      <webElementGuid>9d16e938-6928-4d61-9eaa-4f61d4cc0a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 832301 </value>
+      <webElementGuid>f74b8b01-7c8b-4635-bf50-bbda0a7a9a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-0&quot;)/tr[@class=&quot;cdk-drag strip cdk-drag-disabled&quot;]/td[@class=&quot;text-start&quot;]/span[@class=&quot;font-weight-bold grid-links&quot;]</value>
+      <webElementGuid>9b018139-beae-4d1f-b0a3-86d357f9b8fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='cdk-drop-list-0']/tr/td/span</value>
+      <webElementGuid>155c569d-5ef1-4240-ace9-a45abb2cf84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WALT'])[1]/following::span[1]</value>
+      <webElementGuid>f96796dd-805e-4036-8e15-1ae3201e4e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Occupancy %'])[1]/following::span[2]</value>
+      <webElementGuid>52496045-1cb3-4089-9dd1-898e8531fee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MMPF2'])[2]/preceding::span[1]</value>
+      <webElementGuid>a4e0dc8b-e5b3-48b8-adc3-fa3a8490360c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dayton Digestive - Clyo Road'])[1]/preceding::span[2]</value>
+      <webElementGuid>31a1c9d9-bac0-417e-8914-09d717dd7e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='832301']/parent::*</value>
+      <webElementGuid>82cd8f3b-ce8f-4349-84c8-9e71a0c205e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span</value>
+      <webElementGuid>551dd7d8-8761-49c0-8243-062bc7530be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 832301 ' or . = ' 832301 ')]</value>
+      <webElementGuid>b84e6e57-1adf-413b-a4aa-bac2b10c4dbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

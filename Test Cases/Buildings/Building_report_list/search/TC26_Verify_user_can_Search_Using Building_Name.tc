@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC26_Verify_user_can_Search_Using Building_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fb39e28-4cb1-4905-8615-134e048f4ceb</testCaseGuid>
+</TestCaseEntity>

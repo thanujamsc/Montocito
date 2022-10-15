@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_103 Physicians Way Lebanon TN 37090</name>
+   <tag></tag>
+   <elementGuidId>bf8c0f9b-95bb-46cd-b3e6-db8ea006930f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='cdk-drop-list-0']/tr/td[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>22cba43b-8d15-4655-b9e5-6f0f653d9e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>50dbc084-d454-4d06-bfec-2846d90c2924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 103 Physicians Way Lebanon TN 37090 </value>
+      <webElementGuid>20fba168-54c9-4a2f-93ce-9362dacf92d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-0&quot;)/tr[@class=&quot;cdk-drag strip cdk-drag-disabled ng-star-inserted&quot;]/td[@class=&quot;text-start ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>575c418c-fde9-41e9-9a52-4418eebfc2b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='cdk-drop-list-0']/tr/td[4]/span</value>
+      <webElementGuid>b8a3b38a-4b2e-42ee-9e1a-6bdfa0331a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TN Oncology Lebanon'])[1]/following::span[1]</value>
+      <webElementGuid>83ba6b07-b89d-4d5a-88d1-464b21a57695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MMPF2'])[2]/following::span[2]</value>
+      <webElementGuid>e363dfd3-8c7b-4705-9690-27a0b8397f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TN'])[1]/preceding::span[1]</value>
+      <webElementGuid>2af3fd27-c1ef-4aab-854d-336987908bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIX2'])[2]/preceding::span[7]</value>
+      <webElementGuid>e9cb944c-3d3a-46a5-9b53-449bf5d8a3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='103 Physicians Way Lebanon TN 37090']/parent::*</value>
+      <webElementGuid>14cc793b-c4b6-494c-906e-0e6138e63fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/span</value>
+      <webElementGuid>50767909-9151-4c4d-8f73-1c7e16dbfd89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 103 Physicians Way Lebanon TN 37090 ' or . = ' 103 Physicians Way Lebanon TN 37090 ')]</value>
+      <webElementGuid>21fe1653-8191-4821-a04f-addf95a45241</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

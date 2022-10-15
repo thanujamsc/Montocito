@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC43_Verify_user_can_Edit_New_Inspection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80082ccd-ff23-4289-a4b3-1ca9ae8e2a6d</testCaseGuid>
+</TestCaseEntity>

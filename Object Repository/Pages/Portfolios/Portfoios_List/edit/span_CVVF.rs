@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CVVF</name>
+   <tag></tag>
+   <elementGuidId>3d229fe1-ff9b-4e36-a0be-495610ef8d7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='cdk-drop-list-0']/tr[2]/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93d00e90-31af-4058-b847-5373dd8fbd84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold grid-links</value>
+      <webElementGuid>b92edf43-bfcd-410b-8154-9ce7366d2feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> CVVF </value>
+      <webElementGuid>95cca71f-c39e-4c02-87fc-cdd99c3b92e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-0&quot;)/tr[@class=&quot;cdk-drag cdk-drag-disabled&quot;]/td[@class=&quot;text-start&quot;]/span[@class=&quot;font-weight-bold grid-links&quot;]</value>
+      <webElementGuid>ff6f5852-b32d-4789-9d7b-54ac8c51e184</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='cdk-drop-list-0']/tr[2]/td/span</value>
+      <webElementGuid>044ba68d-6422-4066-862e-5589e92f6d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clarity Ventures Consolidated'])[1]/following::span[1]</value>
+      <webElementGuid>f70fcd8a-ff1d-44a5-b74d-6f4c4b2d3683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVG'])[2]/following::span[2]</value>
+      <webElementGuid>b2f7ee58-522a-4c08-b1e9-c25ce943c22c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clarity Venture Vet Fund'])[1]/preceding::span[1]</value>
+      <webElementGuid>6c2ed8e3-4fda-4d71-ae30-fcb09a833ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FCA'])[2]/preceding::span[2]</value>
+      <webElementGuid>756bace5-bc06-4203-98c8-9c5725853dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/span</value>
+      <webElementGuid>cd3bd567-1ddb-4592-8fad-21a6d7a2029f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' CVVF ' or . = ' CVVF ')]</value>
+      <webElementGuid>1a5ffa7a-c93a-44ba-9350-0d28a9fccaf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

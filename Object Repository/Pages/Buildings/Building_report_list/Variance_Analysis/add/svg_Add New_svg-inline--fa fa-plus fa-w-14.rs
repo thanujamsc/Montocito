@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Add New_svg-inline--fa fa-plus fa-w-14</name>
+   <tag></tag>
+   <elementGuidId>5690ae82-a904-4e2b-a5ed-9eed802ea1af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-plus.fa-w-14</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]//*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a45d7c92-482f-4b93-9b04-2e0f60b50188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2bea3582-eb90-4f6e-9249-6c0c210dc9da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3e16d16e-bee4-4928-b4d3-56022b597597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>cadde2ad-74d4-47bc-bf55-577dbd862223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>5640ca04-6327-47a0-983b-56bc5bf278d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>plus</value>
+      <webElementGuid>100ebc52-afc4-41f1-b329-067c4cfd0198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-plus fa-w-14</value>
+      <webElementGuid>e083db86-868c-4a91-9740-6a82ef809da6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>59082de1-7d9d-487e-8bee-a1582b42ab5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 448 512</value>
+      <webElementGuid>234791c8-ba94-46c4-bceb-aea9571e318d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;download-container&quot;)/div[@class=&quot;print-container&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;mt-5&quot;]/app-variance-analysis[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col text-end&quot;]/button[@class=&quot;btn btn-light btn-sm d-print-none&quot;]/fa-icon[@class=&quot;ng-fa-icon mont-txt-primary&quot;]/svg[@class=&quot;svg-inline--fa fa-plus fa-w-14&quot;]</value>
+      <webElementGuid>90de4b2a-3e5e-4c6d-b54c-e0e6edaf81a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>7353a573-1301-4c3c-96a6-a90ec47615ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Variance Analysis'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ff6565f2-2a74-46e5-8883-82ed7d64fbe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No content available'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ad271594-f369-42a0-9bb4-ca12fa2ac5db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant Delinquencies'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ee0b3b95-26f1-481f-b3a6-e7bf18886055</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

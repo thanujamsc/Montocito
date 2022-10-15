@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Download</name>
+   <tag></tag>
+   <elementGuidId>1ec8842c-99c7-4aed-853c-f72c290a2f14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon-link.d-flex.align-items-center > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='download-container']/div/div[2]/div[2]/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>823b76dc-edc3-4e9a-aea2-21a0f7e01162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download</value>
+      <webElementGuid>a0795d28-4ba7-4d39-b1b1-f375d62757b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;download-container&quot;)/div[@class=&quot;print-container&quot;]/div[@class=&quot;row mt-4 d-print-none&quot;]/div[@class=&quot;col-12 col-sm-6 col-md-5 d-flex justify-content-end align-items-center mt-4 mt-sm-0&quot;]/div[@class=&quot;ms-4 download mr-4&quot;]/a[@class=&quot;icon-link d-flex align-items-center&quot;]/span[1]</value>
+      <webElementGuid>dd6f9c34-841b-45bf-ae6c-976c439547b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='download-container']/div/div[2]/div[2]/div[2]/a/span</value>
+      <webElementGuid>8c356f74-a813-4023-be76-06917928defa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/following::span[1]</value>
+      <webElementGuid>91bb0bb8-19b4-4edf-8c39-c9df23fedca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MMMDCFA'])[1]/following::span[2]</value>
+      <webElementGuid>1d28ee7e-0110-4948-9101-698bf0a43677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details Table'])[1]/preceding::span[1]</value>
+      <webElementGuid>85a5c544-5162-4708-8312-779f0ca71d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly Financial Performance (000s) - Q3/2022'])[1]/preceding::span[2]</value>
+      <webElementGuid>134456e2-3b4f-4dcd-86ce-b8f6c09f431e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download']/parent::*</value>
+      <webElementGuid>a1870a17-3302-49ca-b28d-0d18e6475997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>4ef1d9d3-b66f-4c8e-ad1c-993f1e77c1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Download' or . = 'Download')]</value>
+      <webElementGuid>1a8e3543-647a-4707-a35c-a63d5cc109d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

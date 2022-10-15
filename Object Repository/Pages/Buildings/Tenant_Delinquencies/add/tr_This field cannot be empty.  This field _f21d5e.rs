@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_This field cannot be empty.  This field _f21d5e</name>
+   <tag></tag>
+   <elementGuidId>fecf594d-8f6d-4ee9-a304-af2734b71e8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.cdk-drag.strip.cdk-drag-disabled</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='cdk-drop-list-1']/tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>c125695d-b058-48b2-99fa-8a3a81555175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cdkdraglockaxis</name>
+      <type>Main</type>
+      <value>y</value>
+      <webElementGuid>c632dba7-e687-4cc9-8087-6ed4f218f8f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-drag strip cdk-drag-disabled</value>
+      <webElementGuid>164d57e4-264c-4d2c-892b-dfe5c1284010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> This field cannot be empty.  This field cannot be empty.  This field cannot be empty.  This field cannot be empty.  This field cannot be empty. </value>
+      <webElementGuid>88f1e016-6a38-4eff-8710-d2d4e53cb668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-1&quot;)/tr[@class=&quot;cdk-drag strip cdk-drag-disabled&quot;]</value>
+      <webElementGuid>648b5dac-3598-48ad-a4c3-573ef5a8c82a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='cdk-drop-list-1']/tr</value>
+      <webElementGuid>5b52deae-6eee-44fb-ab1c-ea8587e5c195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::tr[1]</value>
+      <webElementGuid>80576cb3-5e2c-460e-b301-da2dd130da22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount Owed Over 90 Days (Total)'])[1]/following::tr[1]</value>
+      <webElementGuid>c296926c-5c17-403a-84ff-2219035b0cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr</value>
+      <webElementGuid>2d5f83d9-860d-491c-a61f-b1245180a329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = ' This field cannot be empty.  This field cannot be empty.  This field cannot be empty.  This field cannot be empty.  This field cannot be empty. ' or . = ' This field cannot be empty.  This field cannot be empty.  This field cannot be empty.  This field cannot be empty.  This field cannot be empty. ')]</value>
+      <webElementGuid>4d3c75f6-7f07-4962-a8e6-70707d71baa4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

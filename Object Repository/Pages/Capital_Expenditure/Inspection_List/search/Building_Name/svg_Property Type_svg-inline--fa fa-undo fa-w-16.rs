@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Property Type_svg-inline--fa fa-undo fa-w-16</name>
+   <tag></tag>
+   <elementGuidId>9000117b-4d74-4f3a-a050-5b1c5de691ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-undo.fa-w-16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Type'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>781ed2f3-5f80-4be1-88d3-ad121c862ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f7660013-9171-47d3-9b8a-ccef0c5f29ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a01d6e54-7834-4c7b-9c52-9fe7473a9e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2eeed4ae-934e-433a-b26d-ef7969abebfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>2a6cac8e-a795-4c6a-8e03-65b49d8061a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>undo</value>
+      <webElementGuid>8b4b97e2-e396-4be0-8863-5307621c1c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-undo fa-w-16</value>
+      <webElementGuid>ec2ae9b8-6faf-4e92-905a-13057b3d8421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>4e6d88d3-d248-4dfa-b97b-5e7029a6de96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>b398cdde-aeb4-46a1-927e-76e938d050bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;container-fluid p-0 main-container&quot;]/div[@class=&quot;container pt-4&quot;]/div[@class=&quot;card container-middle&quot;]/div[@class=&quot;card-body&quot;]/app-capex-home[1]/app-capex-grid[1]/div[@class=&quot;row mt-2&quot;]/div[@class=&quot;col-md-2 col-lg-2 col-xl-2 mt-4 d-flex align-items-end&quot;]/button[@class=&quot;btn btn-primary&quot;]/fa-icon[@class=&quot;ng-fa-icon&quot;]/svg[@class=&quot;svg-inline--fa fa-undo fa-w-16&quot;]</value>
+      <webElementGuid>92f30a6a-b399-432e-aa97-1494931fa537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Type'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>265f3c73-987e-4208-8adb-3fd7679300c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspected By'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>1c2d9fbd-55e0-4736-b2b6-b745acddee78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export As'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>18b4904c-c51b-49ac-96d8-50d8e01aec05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF File'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>95596845-dc14-4705-bc4b-2964f7d3c53c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fa-icon_Save Changes_ng-fa-icon</name>
+   <tag></tag>
+   <elementGuidId>8e187d1b-047b-46ec-afa4-a5414a263438</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-column.mont-txt-primary.ng-star-inserted > fa-icon.ng-fa-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='download-container']/div/div[2]/div/app-variance-analysis/div/div[2]/div[2]/div/label/div/fa-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fa-icon</value>
+      <webElementGuid>4c568b5a-230a-48dc-b67a-9be9228c43ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>lg</value>
+      <webElementGuid>419fbc48-c67c-439e-8801-0908b7926f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-fa-icon</value>
+      <webElementGuid>38cffbfb-a8cf-4449-9fcd-255ea10431c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;download-container&quot;)/div[@class=&quot;print-container&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;mt-5&quot;]/app-variance-analysis[1]/div[1]/div[@class=&quot;mt-3 ng-star-inserted&quot;]/div[@class=&quot;row d-print-none&quot;]/div[@class=&quot;col-md-2 d-print-none ng-star-inserted&quot;]/label[@class=&quot;rounded d-flex flex-column justify-content-center align-items-center btn&quot;]/div[@class=&quot;d-flex flex-column mont-txt-primary ng-star-inserted&quot;]/fa-icon[@class=&quot;ng-fa-icon&quot;]</value>
+      <webElementGuid>0a63a8d7-dee5-45bb-86a1-389d72ea3eca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='download-container']/div/div[2]/div/app-variance-analysis/div/div[2]/div[2]/div/label/div/fa-icon</value>
+      <webElementGuid>70745f54-376c-4fcf-a999-eb6f703c089f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Changes'])[1]/following::fa-icon[1]</value>
+      <webElementGuid>ba8178d1-185b-4464-8d95-15053de22c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::fa-icon[1]</value>
+      <webElementGuid>c6610425-fc5b-415e-9410-b6a525fdccf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Image'])[1]/preceding::fa-icon[1]</value>
+      <webElementGuid>3f0108c1-25b0-46a6-90ba-00e1c9b8100e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant Delinquencies'])[1]/preceding::fa-icon[1]</value>
+      <webElementGuid>c0e2988d-e91b-418b-a435-824175b24205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/fa-icon</value>
+      <webElementGuid>1d026432-0332-4868-9472-67b6fce0dc96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

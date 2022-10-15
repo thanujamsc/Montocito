@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC25_Verify_user_can_Search_Using Building_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01da9575-df00-4d82-9f86-bc7f7d77ae95</testCaseGuid>
+</TestCaseEntity>

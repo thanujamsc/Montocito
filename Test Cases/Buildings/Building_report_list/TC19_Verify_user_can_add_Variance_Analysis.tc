@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19_Verify_user_can_add_Variance_Analysis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e63c9494-4ced-46f2-8f57-b942d4a07d1d</testCaseGuid>
+</TestCaseEntity>

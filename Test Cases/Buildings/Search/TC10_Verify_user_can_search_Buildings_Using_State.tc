@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_Verify_user_can_search_Buildings_Using_State</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce9a0157-c29e-4dec-9ca9-c75c16661814</testCaseGuid>
+</TestCaseEntity>

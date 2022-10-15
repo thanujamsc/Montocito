@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_dddd_btn btn-light btn-sm d-print-none</name>
+   <tag></tag>
+   <elementGuidId>1e2c0653-fb33-4b8f-aad1-d7f948aac937</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-light.btn-sm.d-print-none</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='download-container']/div/div[2]/div/app-variance-analysis/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>27442138-00dd-497c-b975-048b87b929de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm d-print-none</value>
+      <webElementGuid>e10b9790-249b-453a-a828-0af1132f5a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;download-container&quot;)/div[@class=&quot;print-container&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;mt-5&quot;]/app-variance-analysis[1]/div[1]/div[@class=&quot;mt-3&quot;]/div[@class=&quot;d-flex justify-content-between align-items-start mb-4&quot;]/button[@class=&quot;btn btn-light btn-sm d-print-none&quot;]</value>
+      <webElementGuid>c7c2993e-8f37-45d1-8012-0b42c44ca834</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='download-container']/div/div[2]/div/app-variance-analysis/div/div[2]/div/button</value>
+      <webElementGuid>b6596bd8-fb59-4885-99aa-23e5b4398366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dddd'])[1]/following::button[1]</value>
+      <webElementGuid>14def950-6a8b-457f-9fba-a78c6bfb1ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Variance Analysis'])[1]/following::button[1]</value>
+      <webElementGuid>a79a2ff5-3e77-469b-b60a-98e20831aa75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Image'])[1]/preceding::button[1]</value>
+      <webElementGuid>70b5fafe-0bc0-473a-8ac0-016739dba775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant Delinquencies'])[1]/preceding::button[1]</value>
+      <webElementGuid>2e4599fd-c225-4a58-bac3-aa5e6a50402d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/button</value>
+      <webElementGuid>e8f6a637-191c-4502-9037-2f5ad031b70b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

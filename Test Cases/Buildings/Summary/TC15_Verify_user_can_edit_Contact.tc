@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15_Verify_user_can_edit_Contact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>208a4f3b-0fef-46c0-8057-07275571f180</testCaseGuid>
+</TestCaseEntity>

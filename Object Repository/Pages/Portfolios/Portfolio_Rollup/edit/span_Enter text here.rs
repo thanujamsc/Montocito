@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Enter text here</name>
+   <tag></tag>
+   <elementGuidId>5fb8817e-49a7-4ed9-af11-22aae50b5333</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.angular-editor-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='download-container']/div/app-portfolio-overview/div[2]/div/div/div/angular-editor/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9583c8b1-74ab-4b0e-b6f0-a58661e1de7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>angular-editor-placeholder</value>
+      <webElementGuid>448065ee-d16f-4253-bd81-58d6e0004c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter text here...</value>
+      <webElementGuid>d7aab2d3-7036-4107-abc3-0d0da51fd845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;download-container&quot;)/div[@class=&quot;print-container&quot;]/app-portfolio-overview[1]/div[@class=&quot;row mt-2&quot;]/div[@class=&quot;col-xs-12 col-md-6 col-lg-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-2&quot;]/angular-editor[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;angular-editor&quot;]/div[@class=&quot;angular-editor-wrapper show-placeholder&quot;]/span[@class=&quot;angular-editor-placeholder&quot;]</value>
+      <webElementGuid>9634af93-647e-4f64-ab7f-e9ff1467e665</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='download-container']/div/app-portfolio-overview/div[2]/div/div/div/angular-editor/div/div/span</value>
+      <webElementGuid>39a0068e-751c-4b97-ba29-6072ab66eedb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comic Sans MS'])[1]/following::span[5]</value>
+      <webElementGuid>5d3e836e-257c-4d68-9d32-32fe74e7dcc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calibri'])[1]/following::span[5]</value>
+      <webElementGuid>bf84988a-f429-42fe-b119-363599cf5e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[2]</value>
+      <webElementGuid>7337e34b-d776-4775-8042-86fce74a6913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[2]</value>
+      <webElementGuid>fc8cbce0-ffd0-478e-8055-3dbf27703bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter text here...']/parent::*</value>
+      <webElementGuid>eae5e862-d2a9-4df3-929f-c7cf824b7995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//angular-editor/div/div/span</value>
+      <webElementGuid>14da852d-41e0-4e4c-be0a-96c07abace57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Enter text here...' or . = 'Enter text here...')]</value>
+      <webElementGuid>d5b71ea8-96c8-4207-8c79-9a12123daedd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC24_Verify_user_can_delete_Tenant_Delinquencies</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ea127b5-bdc7-4f48-b94f-2b9aff42cbce</testCaseGuid>
+</TestCaseEntity>

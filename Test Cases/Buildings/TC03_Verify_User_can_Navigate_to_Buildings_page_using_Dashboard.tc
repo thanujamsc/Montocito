@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Verify_User_can_Navigate_to_Buildings_page_using_Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26bf6638-0956-43a8-a3f4-4d7f30b69502</testCaseGuid>
+</TestCaseEntity>

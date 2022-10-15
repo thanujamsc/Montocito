@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_no_svg-inline--fa fa-trash-alt fa-w-14</name>
+   <tag></tag>
+   <elementGuidId>fd629053-ac17-4a84-a954-cf8f425282f9</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>//tbody/tr[3]/td[6]/button[1]/fa-icon[1]//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;cdk-drop-list-1&quot;]/tr/td[6]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;cdk-drop-list-1&quot;)/tr[@class=&quot;cdk-drag strip cdk-drag-disabled&quot;]/td[@class=&quot;text-center d-print-none&quot;]/button[@class=&quot;button-border ms-1 cgrid-delete-row&quot;]/fa-icon[@class=&quot;ng-fa-icon grid-color&quot;]/svg[@class=&quot;svg-inline--fa fa-trash-alt fa-w-14&quot;]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ba1dcf70-7a13-4f26-9a15-1a02f073c73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>40cf605b-2530-482f-91c3-862e02c1141c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8b3c4446-068c-4aa1-9a25-cb6972cfc321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3d551159-624d-400d-84b8-8a72ea489d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>d2eea155-be8a-493d-9901-f9036d68c9bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>trash-alt</value>
+      <webElementGuid>f087186d-aef3-4056-b5af-42e2bb192399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-trash-alt fa-w-14</value>
+      <webElementGuid>449f3ccb-eb94-4e3a-ad08-e6320fee7f11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>4b1a787e-6118-4966-ac43-444bde77a4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 448 512</value>
+      <webElementGuid>9ae63185-9540-4e9c-a0f7-b23c7c13638d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-1&quot;)/tr[@class=&quot;cdk-drag strip cdk-drag-disabled&quot;]/td[@class=&quot;text-center d-print-none&quot;]/button[@class=&quot;button-border ms-1 cgrid-delete-row&quot;]/fa-icon[@class=&quot;ng-fa-icon grid-color&quot;]/svg[@class=&quot;svg-inline--fa fa-trash-alt fa-w-14&quot;]</value>
+      <webElementGuid>9912042e-b6c0-4a45-9a43-cbf08e300ce6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='no'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>bab727ce-b290-493c-b6ef-747be8f92ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='good'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9a460890-d9bc-4c8e-ad40-778626efa9d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='name'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b90946a8-da4b-45af-b142-dc3280381bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='commnet'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>43825fde-f570-4096-8b38-3b8e95ccf2bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

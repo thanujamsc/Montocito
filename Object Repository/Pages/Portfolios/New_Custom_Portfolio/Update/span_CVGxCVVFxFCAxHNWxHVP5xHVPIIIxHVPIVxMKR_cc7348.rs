@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CVGxCVVFxFCAxHNWxHVP5xHVPIIIxHVPIVxMKR_cc7348</name>
+   <tag></tag>
+   <elementGuidId>56eda36c-d939-4a29-850f-63671114c1a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.dropdown-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio'])[2]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e82616d5-64f6-4f66-a574-fe45d8e88b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>2a23e413-0087-4349-81a7-6b19ea7ba2ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-btn</value>
+      <webElementGuid>ae3f5e61-87b3-41f9-b15f-4e13540fef6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CVG xCVVF xFCA xHNW xHVP5 xHVPIII xHVPIV xMKRE xMMACHI xMMOC xMMPCM xMMPF xMMPF2 xMMPF3 xMPIX xPIX2 xSBAF xSBAF2 xSPONSOR xTWORIV x+18</value>
+      <webElementGuid>e14504d9-0303-4bd5-be9d-24f5a2055922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/app-portfolio-new-report[1]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-md-9&quot;]/ng-multiselect-dropdown[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/div[1]/span[@class=&quot;dropdown-btn&quot;]</value>
+      <webElementGuid>9d0d4321-175e-4116-b26e-f7b34da93871</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio'])[2]/following::span[1]</value>
+      <webElementGuid>9a31e445-94b5-438a-a598-dd298b5b8450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio Name'])[1]/following::span[1]</value>
+      <webElementGuid>dc28cc3f-452a-42f8-8cad-b1644b562de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>b3a1cf89-de84-42b1-96b8-4d79767c51ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CVG xCVVF xFCA xHNW xHVP5 xHVPIII xHVPIV xMKRE xMMACHI xMMOC xMMPCM xMMPF xMMPF2 xMMPF3 xMPIX xPIX2 xSBAF xSBAF2 xSPONSOR xTWORIV x+18' or . = 'CVG xCVVF xFCA xHNW xHVP5 xHVPIII xHVPIV xMKRE xMMACHI xMMOC xMMPCM xMMPF xMMPF2 xMMPF3 xMPIX xPIX2 xSBAF xSBAF2 xSPONSOR xTWORIV x+18')]</value>
+      <webElementGuid>8fdff898-1131-460d-9674-116918a55c21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

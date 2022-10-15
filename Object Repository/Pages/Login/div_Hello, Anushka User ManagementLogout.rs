@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hello, Anushka User ManagementLogout</name>
+   <tag></tag>
+   <elementGuidId>4f021cd8-867d-4091-9823-0f80ee9d26b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarsExampleXxl']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.user-menu.text-white.d-flex.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b02058a-efa8-4894-8210-56e1de7e2bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-menu text-white d-flex align-items-center</value>
+      <webElementGuid>aac6c349-c75c-4ed0-8817-e15ba1ba4b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hello, Anushka User ManagementLogout</value>
+      <webElementGuid>ecdbf868-2de9-4ae9-a622-2b14edd5c020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarsExampleXxl&quot;)/div[@class=&quot;user-menu text-white d-flex align-items-center&quot;]</value>
+      <webElementGuid>38e87c62-be37-4fa7-9720-b6fcf584ba2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarsExampleXxl']/div</value>
+      <webElementGuid>6ea6ee94-139f-4b64-b2cf-2ab069e9a0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Inspection'])[1]/following::div[1]</value>
+      <webElementGuid>21b1dc46-ea08-4ac3-85e8-48b664cb322a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspection List'])[1]/following::div[2]</value>
+      <webElementGuid>55b94145-c854-48b4-af66-e613c97d30dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello, Anushka']/parent::*</value>
+      <webElementGuid>9bee2533-b552-4cac-bff1-a34af8984b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>3f2978de-f150-419d-9abc-e3eea7b63cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Hello, Anushka User ManagementLogout' or . = ' Hello, Anushka User ManagementLogout')]</value>
+      <webElementGuid>12099369-c382-4f4f-bb00-267549b4ab0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

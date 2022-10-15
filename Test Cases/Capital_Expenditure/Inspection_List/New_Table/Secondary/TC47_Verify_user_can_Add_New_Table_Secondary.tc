@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC47_Verify_user_can_Add_New_Table_Secondary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b51a9e84-542f-414c-890b-febc505d72a0</testCaseGuid>
+</TestCaseEntity>

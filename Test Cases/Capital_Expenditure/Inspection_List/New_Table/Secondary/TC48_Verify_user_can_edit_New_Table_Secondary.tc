@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC48_Verify_user_can_edit_New_Table_Secondary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dea13bab-e96d-4c0e-95bc-e4a0ae00b06a</testCaseGuid>
+</TestCaseEntity>

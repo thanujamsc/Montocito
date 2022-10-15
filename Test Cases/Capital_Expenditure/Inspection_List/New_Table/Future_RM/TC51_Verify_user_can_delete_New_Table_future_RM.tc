@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC51_Verify_user_can_delete_New_Table_future_RM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4b5c4a8-d4b8-4fb4-b1e8-8115cadd3ddd</testCaseGuid>
+</TestCaseEntity>

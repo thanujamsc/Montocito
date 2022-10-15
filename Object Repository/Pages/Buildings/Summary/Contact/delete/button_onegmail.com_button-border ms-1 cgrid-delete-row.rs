@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_onegmail.com_button-border ms-1 cgrid-delete-row</name>
+   <tag></tag>
+   <elementGuidId>cfab0ab4-5064-4f13-a698-19f50a8df199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='cdk-drop-list-1']/tr[4]/td[6]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6d2f1087-bf0c-49ce-b6b8-c0b091b2ac1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-border ms-1 cgrid-delete-row</value>
+      <webElementGuid>e8cad1a1-29da-404e-aa2b-631a319c588f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-1&quot;)/tr[@class=&quot;cdk-drag&quot;]/td[@class=&quot;text-center d-print-none&quot;]/button[@class=&quot;button-border ms-1 cgrid-delete-row&quot;]</value>
+      <webElementGuid>76ddfa24-f4c7-4760-8e64-299d0cd5bff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='cdk-drop-list-1']/tr[4]/td[6]/button</value>
+      <webElementGuid>b5c9fdb5-6304-4323-85d2-9a871e7e6d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='one@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>275aa3a7-ead8-4da7-9846-be1ddb2bf5bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nc'])[1]/following::button[1]</value>
+      <webElementGuid>148acc4e-f935-4afc-a51e-40ab1da6403b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leases'])[1]/preceding::button[1]</value>
+      <webElementGuid>7d6a9ceb-606d-4d6b-a33c-167a004451e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WALT'])[1]/preceding::button[1]</value>
+      <webElementGuid>0d564e08-5fc6-4823-856e-8aa1055232ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[6]/button</value>
+      <webElementGuid>fe8b2911-2940-4231-b5ec-0ff0c1515445</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

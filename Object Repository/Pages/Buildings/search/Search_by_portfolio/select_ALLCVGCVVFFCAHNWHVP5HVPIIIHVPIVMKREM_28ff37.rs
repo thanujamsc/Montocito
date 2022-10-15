@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ALLCVGCVVFFCAHNWHVP5HVPIIIHVPIVMKREM_28ff37</name>
+   <tag></tag>
+   <elementGuidId>4016cbfd-54d5-44d8-bfe7-730b53b9696c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-select.mt-2.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio'])[2]/following::select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>76090010-609d-4cb3-be38-146ce08ba763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select mt-2 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>520b7acb-0f24-424a-97c3-b5f0a816b068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ALLCVGCVVFFCAHNWHVP5HVPIIIHVPIVMKREMMACHIMMOCMMPCMMMPFMMPF2MMPF3MPIXPIX2SBAFSBAF2SPONSORTWORIV</value>
+      <webElementGuid>7ac422d7-b6d0-4c5f-ba07-a48be2b2d3dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;container-fluid p-0 main-container&quot;]/div[@class=&quot;container pt-4&quot;]/div[@class=&quot;card container-middle&quot;]/div[@class=&quot;card-body&quot;]/app-building-home[1]/app-building-grid[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-md-4 col-lg-2 col-xl-2 mt-2&quot;]/select[@class=&quot;form-select mt-2 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>4eef3815-7f4e-41b9-ae1d-f8b84f24554f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio'])[2]/following::select[1]</value>
+      <webElementGuid>94d38c26-1a59-4964-ad76-830e5d2212b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for Buildings'])[1]/following::select[1]</value>
+      <webElementGuid>91765fa1-99f9-49ce-8604-e51e9e782950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building Id'])[1]/preceding::select[1]</value>
+      <webElementGuid>92e75c16-8430-4812-b901-1cb4940abff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building name'])[1]/preceding::select[1]</value>
+      <webElementGuid>4400950c-e61b-4c00-8b1f-ad4ae5b43469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>65392151-66c4-4782-8c4d-b329aa49e6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'ALLCVGCVVFFCAHNWHVP5HVPIIIHVPIVMKREMMACHIMMOCMMPCMMMPFMMPF2MMPF3MPIXPIX2SBAFSBAF2SPONSORTWORIV' or . = 'ALLCVGCVVFFCAHNWHVP5HVPIIIHVPIVMKREMMACHIMMOCMMPCMMMPFMMPF2MMPF3MPIXPIX2SBAFSBAF2SPONSORTWORIV')]</value>
+      <webElementGuid>fa4e7c50-ae14-4ee4-9b8f-113b64b5465b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

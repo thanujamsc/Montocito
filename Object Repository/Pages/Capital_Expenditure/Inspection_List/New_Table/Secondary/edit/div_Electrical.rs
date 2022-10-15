@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Electrical</name>
+   <tag></tag>
+   <elementGuidId>c6d8230f-d66a-4ba6-9665-812a6cd9199f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='download-container']/div/div[2]/app-capex-report-secondary/div[2]/div/app-capex-report-secondary-item/div/div/div/div[2]/app-capex-report-category-select/ng-multiselect-dropdown/div/div[2]/ul[2]/li[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6f03fae-3f3f-4ca7-81bf-7904595f0c9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Electrical</value>
+      <webElementGuid>b503fc05-3b18-4c75-bd34-1280ca4013b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;download-container&quot;)/div[@class=&quot;print-container&quot;]/div[@class=&quot;card-body&quot;]/app-capex-report-secondary[1]/div[@class=&quot;list-group-flush&quot;]/div[@class=&quot;list-group-item&quot;]/app-capex-report-secondary-item[1]/div[@class=&quot;py-3&quot;]/div[@class=&quot;row mb-2&quot;]/div[1]/div[@class=&quot;col-md-12&quot;]/app-capex-report-category-select[1]/ng-multiselect-dropdown[@class=&quot;singleselect ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/div[@class=&quot;dropdown-list&quot;]/ul[@class=&quot;item2&quot;]/li[@class=&quot;multiselect-item-checkbox&quot;]/div[1]</value>
+      <webElementGuid>22d2b83b-3b4d-4a4f-8db5-8ee0bfa6ef86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='download-container']/div/div[2]/app-capex-report-secondary/div[2]/div/app-capex-report-secondary-item/div/div/div/div[2]/app-capex-report-category-select/ng-multiselect-dropdown/div/div[2]/ul[2]/li[3]/div</value>
+      <webElementGuid>841b6391-7fda-44f3-b005-9cc5f7a21eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building Envelope'])[1]/following::div[1]</value>
+      <webElementGuid>2fc1467d-258e-4c65-b6f7-5f185a70183b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADA Compliance'])[1]/following::div[2]</value>
+      <webElementGuid>aeb57ef6-20f3-4eee-bbba-e099dc3ff217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elevator'])[1]/preceding::div[1]</value>
+      <webElementGuid>6af5b4c0-3508-475e-a066-c67aae1be9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interior'])[1]/preceding::div[2]</value>
+      <webElementGuid>fa1f2fc6-3e3d-4564-be79-b29bb6057563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Electrical']/parent::*</value>
+      <webElementGuid>2f217a8f-a668-4c27-88d7-927772b40f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[3]/div</value>
+      <webElementGuid>ed441114-3be1-4e16-afbc-52a5d5c17cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Electrical' or . = 'Electrical')]</value>
+      <webElementGuid>9e34af56-11fc-4e4b-808c-50962fd2f7cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

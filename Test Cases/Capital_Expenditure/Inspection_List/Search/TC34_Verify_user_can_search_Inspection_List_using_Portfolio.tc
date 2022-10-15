@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC34_Verify_user_can_search_Inspection_List_using_Portfolio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0d9dec5-ec7b-4366-ac6e-14d587752ef2</testCaseGuid>
+</TestCaseEntity>

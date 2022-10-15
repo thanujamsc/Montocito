@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Building Envelopex</name>
+   <tag></tag>
+   <elementGuidId>ba57445f-762e-48af-ab8c-1979607cc28a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.dropdown-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='download-container']/div/div[2]/app-capex-report-secondary/div[2]/div/app-capex-report-secondary-item/div/div/div/div[2]/app-capex-report-category-select/ng-multiselect-dropdown/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9d09da3c-c5c5-49bf-9ab1-77f862f527b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>e2a79d01-2062-4170-87e8-bad4b6200c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-btn</value>
+      <webElementGuid>62ea100b-082b-4401-b7c9-7a80399f5cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Building Envelope x</value>
+      <webElementGuid>61f3e34b-2b72-4cc9-b9ea-58455d7cce5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;download-container&quot;)/div[@class=&quot;print-container&quot;]/div[@class=&quot;card-body&quot;]/app-capex-report-secondary[1]/div[@class=&quot;list-group-flush&quot;]/div[@class=&quot;list-group-item&quot;]/app-capex-report-secondary-item[1]/div[@class=&quot;py-3&quot;]/div[@class=&quot;row mb-2&quot;]/div[1]/div[@class=&quot;col-md-12&quot;]/app-capex-report-category-select[1]/ng-multiselect-dropdown[@class=&quot;singleselect ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/div[1]/span[@class=&quot;dropdown-btn&quot;]</value>
+      <webElementGuid>add2c9ad-4200-4893-8caa-f6fedf96907d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='download-container']/div/div[2]/app-capex-report-secondary/div[2]/div/app-capex-report-secondary-item/div/div/div/div[2]/app-capex-report-category-select/ng-multiselect-dropdown/div/div/span</value>
+      <webElementGuid>a1b14194-436d-4427-bf1c-79b54d07030d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Category'])[1]/following::span[1]</value>
+      <webElementGuid>46008258-0560-4adc-b212-618cacd0f5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/following::span[1]</value>
+      <webElementGuid>023b3a3d-9948-4b01-8c64-edd37b7f6894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>8756efde-df7c-4d99-9697-c23ebddfd9d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Building Envelope x' or . = 'Building Envelope x')]</value>
+      <webElementGuid>93fa375f-7c62-4e88-9306-bec5f2d62b16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectBrickEIFSHardiboardMultiple (D_ddb88f</name>
+   <tag></tag>
+   <elementGuidId>06676da6-72f9-4611-875f-d903c09ba2af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='inspectedBy'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4ca3429a-9ddc-41d8-bda0-d058ee4859cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>ComponentID</value>
+      <webElementGuid>8d7e51a2-e857-4656-ab04-568abbf6111e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>inspectedBy</value>
+      <webElementGuid>e7f89db1-3bed-40fd-81e3-4b6450cb133a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inspectedBy</value>
+      <webElementGuid>aefc1803-68e0-4742-9d64-ddeefab29a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Component Name</value>
+      <webElementGuid>ee8f0731-901b-4a82-9f43-b0eeb48f974b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select col-md-2 ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>fc1e169b-0b52-439e-86b0-3ea079bded44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SelectBrickEIFSHardiboardMultiple (Describe)OtherPre-Cast ConcretePre-Finished Metal PanelStoneStucco/PlasterTilt WallVinylWood</value>
+      <webElementGuid>a4922010-76ac-4376-b2d8-37a63703de0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body capex-items&quot;]/app-capex-report-form[1]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row mt-2 px-2&quot;]/div[@class=&quot;col-md-8 col-xs-12&quot;]/select[@id=&quot;inspectedBy&quot;]</value>
+      <webElementGuid>6a1adbf3-68f0-4423-a91a-2d7ff28cc434</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='inspectedBy'])[2]</value>
+      <webElementGuid>9db37603-8468-432a-ab01-f553a38650fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>a5519967-74f1-4ccb-ab54-42996c94a925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance/Repair Details'])[1]/preceding::select[1]</value>
+      <webElementGuid>91428877-f813-40ff-915d-3f0bd5bdff37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[2]/preceding::select[1]</value>
+      <webElementGuid>1740fdb0-d3a9-4a41-ba4f-74998c7c3436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/select</value>
+      <webElementGuid>e4c26ad1-c40e-4be4-b94b-09eb39b331a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'inspectedBy' and @id = 'inspectedBy' and @placeholder = 'Component Name' and (text() = 'SelectBrickEIFSHardiboardMultiple (Describe)OtherPre-Cast ConcretePre-Finished Metal PanelStoneStucco/PlasterTilt WallVinylWood' or . = 'SelectBrickEIFSHardiboardMultiple (Describe)OtherPre-Cast ConcretePre-Finished Metal PanelStoneStucco/PlasterTilt WallVinylWood')]</value>
+      <webElementGuid>015511d9-ed0f-492f-9679-e4812e8f614c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

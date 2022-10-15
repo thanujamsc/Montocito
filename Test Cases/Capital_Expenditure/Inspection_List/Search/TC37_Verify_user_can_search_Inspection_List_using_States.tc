@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC37_Verify_user_can_search_Inspection_List_using_States</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26d3553a-ecfe-4c74-ac8f-e778d8bdd8c7</testCaseGuid>
+</TestCaseEntity>

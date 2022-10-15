@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC32_Verify_User_Can_Add_Contatcts_for_Buildings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d542a736-f30d-4381-bec8-05a2631dd4da</testCaseGuid>
+</TestCaseEntity>

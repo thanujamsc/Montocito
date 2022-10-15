@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13_Verify_user_can_change_Tenant_Financials_Requestable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c84b0b7d-b840-4d7e-bbcb-388712df3aa4</testCaseGuid>
+</TestCaseEntity>

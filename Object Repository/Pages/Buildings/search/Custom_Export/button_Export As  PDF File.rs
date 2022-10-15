@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Export As  PDF File</name>
+   <tag></tag>
+   <elementGuidId>6410a235-ef65-488b-ba0c-0586edf8f45b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-6 > div.btn-group.dropdown.ms-4 > #btnGroupDrop1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='btnGroupDrop1'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24c7307c-efe1-4cef-92fa-956fb7a45e6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnGroupDrop1</value>
+      <webElementGuid>2960dd75-40a4-4ba1-a381-d6277c4eb56d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ddc43345-5be6-4d50-9fb2-b071cdcc5048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>61c6569f-1520-46a6-b1b5-4ff215618548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d479707e-22ab-4406-a9ad-687ffccdcff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary dropdown-toggle show</value>
+      <webElementGuid>99f6587f-a726-424d-a8d8-1c6f4172dbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Export As  PDF File </value>
+      <webElementGuid>5418707d-3c10-4e36-9571-7e9800af67e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/app-building-grid-export[1]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row mt-5&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;btn-group dropdown ms-4&quot;]/button[@id=&quot;btnGroupDrop1&quot;]</value>
+      <webElementGuid>99f0f123-d960-46fc-886e-12c85b8045cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='btnGroupDrop1'])[2]</value>
+      <webElementGuid>d2d0e2b1-213d-44e0-aaa8-f57433b399c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Balance'])[1]/following::button[1]</value>
+      <webElementGuid>1bcfe926-814b-4904-9db6-71d2eb3f95b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maturity'])[1]/following::button[1]</value>
+      <webElementGuid>aae46f51-cf9d-4ab9-8291-bba77fa91df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF File'])[2]/preceding::button[1]</value>
+      <webElementGuid>9c6b6ea4-b82b-4063-b838-e3508832f2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel File'])[2]/preceding::button[1]</value>
+      <webElementGuid>a10a981b-ee9d-4724-9096-ac7f8af93361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button</value>
+      <webElementGuid>60e796c5-e919-4618-a163-ec2157636dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnGroupDrop1' and @type = 'button' and (text() = ' Export As  PDF File ' or . = ' Export As  PDF File ')]</value>
+      <webElementGuid>b2acae5c-a67d-4087-a5ae-c8fb4c5d91a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

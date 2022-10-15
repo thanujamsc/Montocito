@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC39_Verify_user_can_search_Inspection_List_using_Building_Gate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abede674-e2df-494d-b4d4-d9d5a8863745</testCaseGuid>
+</TestCaseEntity>
