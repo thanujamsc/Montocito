@@ -7,6 +7,6 @@ Navigate to https:https://mmacqastorage.z20.web.core.windows.net/# for further d
 *******************Steps********************************
 
 1. Open Project in Katalon Studio.
-2. Navigate to Test Suites and Open Montecito Thanuja
+2. Navigate to Test Suites and Open Montecito Thanuja Thanuja
 3. Run Montecito
 4. Finally, Navigate to Reports -You can take report as PDF/HTML
